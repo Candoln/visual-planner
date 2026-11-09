@@ -1,0 +1,17 @@
+{
+  "databasePath": "計畫器.database",
+  "folder": "",
+  "statusField": "plan-status",
+  "doneValue": "已完成",
+  "activeValue": "進行中",
+  "dateField": "plan-date",
+  "kindField": "plan-type",
+  "completedAtField": "plan-completed-at",
+  "noteFilter": "all",
+  "pageField": "",
+  "orderField": "vp-order",
+  "pageOrder": [],
+  "compactMode": false,
+  "verticalGap": 12,
+  "horizontalGap": 42
+}

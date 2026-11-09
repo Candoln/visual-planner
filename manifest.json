@@ -1,0 +1,9 @@
+{
+  "id": "candoln-visual-planner",
+  "name": "Visual Planner",
+  "version": "0.5.8",
+  "minAppVersion": "1.8.0",
+  "description": "Single-database planning with dense mind map layout, configurable gaps, marquee and modifier-key multi-selection.",
+  "author": "Candoln + ChatGPT",
+  "isDesktopOnly": false
+}
